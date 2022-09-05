@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class IncometransparencyConfig(AppConfig):
+class IncometransappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'IncomeTransparency'
+    name = 'incomeTransApp'
